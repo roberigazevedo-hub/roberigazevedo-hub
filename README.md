@@ -22,7 +22,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 
-## 📊 Estatísticas
-
-[![Roberig stats](https://github-readme-stats.vercel.app/api?username=roberigazevedo-hub)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberigazevedo-hub)](https://github.com/anuraghazra/github-readme-stats)
